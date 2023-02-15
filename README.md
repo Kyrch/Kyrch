@@ -27,3 +27,10 @@
 <a href="https://steamcommunity.com/id/KYRCHZERAA/">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
+<a href="https://anilist.co/user/Kyrch/">
+<img src="https://img.shields.io/badge/Anilist-000000?style=for-the-badge&logo=anilist&logoColor=white">
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=blue" alt="Kyrch#2810">
+</a>
+
