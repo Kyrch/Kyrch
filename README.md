@@ -3,6 +3,7 @@
 - 18y
 - Programming Student
 - Animanga Enjoyer
+- Discord: Kyrch#2810
 
 ## 🚀 | Skills
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -30,7 +31,3 @@
 <a href="https://anilist.co/user/Kyrch/">
 <img src="https://img.shields.io/badge/Anilist-000000?style=for-the-badge&logo=anilist&logoColor=white">
 </a>
-<a href="">
-<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=blue" alt="Kyrch#2810">
-</a>
-
