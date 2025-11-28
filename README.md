@@ -1,6 +1,6 @@
 # 🖥 | Kyrch
 
-- 20y
+- 21y
 - Programming Student
 - Animanga Enjoyer
 - Discord: kyrch
